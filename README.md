@@ -1,5 +1,16 @@
 # useStateWithHistory Hook Example
 
+## Contents
+
+- [Features](#features)
+- [Usage](#usage)
+    - [Install dependencies](#1-install-dependencies)
+    - [Start the development server](#2-start-the-development-server)
+    - [How the hook works](#3-how-the-hook-works)
+    - [Example](#4-example)
+- [Project Structure](#project-structure)
+- [License](#license)
+
 This project demonstrates a custom React hook, `useStateWithHistory`, which extends the standard `useState` by keeping a history of state values and providing undo functionality.
 
 ## Features
